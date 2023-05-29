@@ -1,5 +1,5 @@
 <?php
-// MySQL 데이터베이스 연결 설정
+// MySQL 데이터베이스 연결 설정//추가
 $servername = "localhost:3307";
 $username = "web";
 $password = "web_admin";
